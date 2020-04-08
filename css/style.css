@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding: 20px;
+    background-color: #FFFFE0;
+}
+
+h3 {
+    text-align: center;
+    color: #cc0000;
+}
+.upper {
+    text-transform: uppercase;
+}
+.itl {
+    font-style: italic;
+}
